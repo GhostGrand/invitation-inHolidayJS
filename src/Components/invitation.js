@@ -63,14 +63,14 @@ export default function Invitation() {
                     <ul className='ul'>
                         <li>
                             <p className='first_text'>Дорогие</p>
-                            <p className='person_text'>Коллеги</p>
+                            <p className='person_text'>КОЛЛЕГИ!</p>
                             <p className='invitation_text'>Приглашаем вас на корпоратив, посвященный празднованию нового года, который состоится</p>
                             <p className='date_text'>30 декабря</p>
                         </li>
                         <li className='list_element'>
                             <img src={Logo} className="logo" />
                         </li>
-                        <li>
+                        <li className="form_padding">
                             <input 
                                 type="text" 
                                 className='form' 

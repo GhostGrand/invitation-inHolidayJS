@@ -80,7 +80,7 @@ body {
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 500;
-  font-size: 46.9612px;
+  font-size: 40px;
   line-height: 57px;
   color: #000000;
 }
@@ -92,6 +92,7 @@ body {
   font-size: 62.6149px;
   line-height: 76px;
   color: #000000;
+  margin-top: 5px;
   /* padding-top: 0.1em; */
 }
 
@@ -105,9 +106,9 @@ body {
   text-transform: uppercase;
   color: #000000;
   display: block;
-  width: 70%;
+  width: 60%;
   margin: 0 auto;
-  padding-top: 1em;
+  padding-top: 2em;
 }
 
 .date_text {
@@ -135,7 +136,7 @@ body {
 .logo {
   box-sizing: border-box;
   /* position:absolute; */
-  width: 60%;
+  width: 40%;
 
   align-items: center;
   text-align: center; 
@@ -158,19 +159,26 @@ body {
 .form {
   background: #FFFFFF;
   border: 5.17606px solid #636895;
-  height: 40px;
+  width: 400px;
+  height: 90px;
   margin-top: 2em;
+  font-size: 25px;
 }
 ::placeholder {
   font-family: 'Montserrat';
   text-align: center; 
 }
 
+.form_padding {
+  padding-top: 7em;
+}
+
 .button {
-  width: 120px;
-  height: 30px;
+  width: 300px;
+  height: 90px;
   background: #7684FB;
   margin-top: 2em;
+  font-size: 25px;
 
   font-family: 'Montserrat';
   color: #D7D9FE;
