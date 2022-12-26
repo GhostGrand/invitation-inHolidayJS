@@ -3,7 +3,7 @@ import Background from './background.png'
 import Logo from './logo.png'
 
 let url = 'http://45.15.159.0/api/guest';
-let idInvitation = 1;
+let idInvitation = 6;
 
 export default function Invitation() {
     
