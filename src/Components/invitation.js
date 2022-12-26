@@ -15,7 +15,7 @@ export default function invitation() {
                     <li>
                         <p className='first_text'>Дорогие</p>
                         <p className='person_text'>Коллеги</p>
-                        <p className='invitation_text'>Приглашаем вас на корпоратив, посвященное празднованию нового года, которое состоится</p>
+                        <p className='invitation_text'>Приглашаем вас на корпоратив, посвященный празднованию нового года, который состоится</p>
                         <p className='date_text'>30 декабря</p>
                     </li>
                     <li className='list_element'>
